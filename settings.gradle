@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Projeto_Integrador"
+rootProject.name = "projeto_tcc"
 include ':app'

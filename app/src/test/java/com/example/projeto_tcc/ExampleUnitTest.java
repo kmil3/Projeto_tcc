@@ -1,4 +1,4 @@
-package com.example.projeto_integrador;
+package com.example.projeto_tcc;
 
 import org.junit.Test;
 
